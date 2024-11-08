@@ -33,6 +33,17 @@ const cardData = [
                'Band 1', 'Band 2', 'Band 3', 'Band 4'
             ]
         }
+    },
+    {
+        id: 4,
+        user_name: 'User4',
+        description: 'lorem ipsum',
+        age: '46',
+        fav_music: {
+            bands: [
+                'Band 1', 'Band 2', 'Band 3', 'Band 4'
+            ]
+        }
     }
 
 
